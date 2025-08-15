@@ -1,4 +1,4 @@
-# better way of reading pickup entities
+# reading pickup entities
 I still see too many pastes using fname too identify pickup entities that´s why im gonna show
 a better method which takes less reads then fname to get pickup entites trough actors.
 
