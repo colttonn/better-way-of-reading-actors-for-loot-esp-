@@ -8,7 +8,8 @@ you check if the value is between 0 and 100. After that you normally read the Pr
 i wont show the full code, just an example on how to read it if someone does not understand the text.
 
  float SimulatingTooLongLength = memory->read<float>(actor + 0x2C8);
- if (SimulatingTooLongLength >= 0.f && SimulatingTooLongLength <= 100.f) {
+ 
+if (SimulatingTooLongLength >= 0.f && SimulatingTooLongLength <= 100.f) {
    //the usuall reading logic (PrimaryPickupItemEntry etc)
  }
 
